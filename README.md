@@ -1,11 +1,13 @@
-# HOMEWORK 5 ☀
-The page has useful information about tenses in English
+# HOMEWORK 6 ☀
+The page has been improved.
 Here is the link to my project:
-[My project] (https://annirubi.github.io/Homework-4/)
+[My project] (https://annirubi.github.io/Homework-6/)
 
 ___
 What was done:
 - [X]  Appled BEM methodology in naming
+- [X] Included a form
+- [X] Used box-shadow and text-shadow
 - [X] Used Flexbox
 - [X] Created a page with useful information in HTML and CSS 
 - [X] Added 5 sections: header, description section, gallery section, check yourself section, footer. 
